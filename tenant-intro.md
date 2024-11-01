@@ -13,9 +13,9 @@ To ensure safety and security in our residents, we have implemented a tenant int
 ## Required documents
 1. All the forms given by society must be duly filled, and documents requested in those forms must be provided during the meeting.
 2. Fill this online form before sending an email to PMC. https://forms.gle/H5zzHDCwERViuTb3A
-3. [Undertaking Cum Indemnity](./undertaking-cum-indemnity.pdf)
-4. [Tenant Information](./tenant-information.pdf)
-5. [Tenant Checklist](./tenant-checklist.pdf)
+3. [Undertaking Cum Indemnity](../documents/undertaking-cum-indemnity.pdf)
+4. [Tenant Information](../documents/tenant-information.pdf)
+5. [Tenant Checklist](../documents/tenant-checklist.pdf)
 
 ## Manager's Name : Contact Information: 
 ### For month of October and November 2024
